@@ -3,7 +3,7 @@
 In a real project, there are several GitHub commands that are essential for daily operations. Below are the four commands that are likely to be used the most, along with explanations of why they are important.
 
 ## 1. `git commit`
-- **Usage**: Records changes to the repository with a descriptive message.
+- ** Usage **: Records changes to the repository with a descriptive message.
 - **Why It's Important**: Committing changes is a fundamental part of any project. Each commit serves as a snapshot of your project at a specific point in time, allowing you to keep track of progress and roll back changes if needed. Frequent, meaningful commits with descriptive messages are crucial for maintaining a clear history of the project.
 
 ## 2. `git push`
