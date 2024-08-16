@@ -88,4 +88,4 @@ This document provides a list of commonly used Git commands and their usage. The
 
 ---
 
-These commands provide a solid foundation for working with Git and GitHub. Make sure to explore each command further for more options and advanced usage.
+These commands provide a solid foundation for working with Git and GitHub.
